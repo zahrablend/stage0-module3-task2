@@ -1,7 +1,5 @@
 package school.mjc.stage0.module3.task2;
 
-import jdk.jshell.spi.ExecutionControl;
-
 public class AdvancedNamingConvention {
     private static final int ADULT_AGE = 18;
 
